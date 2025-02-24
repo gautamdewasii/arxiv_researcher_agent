@@ -10,8 +10,8 @@ This project utilizes LangChain and OpenAI to create an intelligent agent that r
 
 ## Demo Images
 
-![alt text](https://github.com/gautamdewasii/arxiv_researcher_agent/blob/main/output1.png?raw=true)
-![alt text](https://github.com/gautamdewasii/arxiv_researcher_agent/blob/main/output2.png?raw=true)
+![alt text](https://drive.google.com/file/d/1CfTemTYxAiRkVtfptMttUbrpD3owRGmZ/view?usp=sharing?raw=true)
+![alt text](https://drive.google.com/file/d/1aBVwSX__ExyQTBojM_Gdd1tIdUWIGErY/view?usp=sharing?raw=true)
 
 ## Usage
 
