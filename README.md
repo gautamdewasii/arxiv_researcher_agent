@@ -10,8 +10,8 @@ This project utilizes LangChain and OpenAI to create an intelligent agent that r
 
 ## Demo Images
 
-![alt text](https://drive.google.com/file/d/1CfTemTYxAiRkVtfptMttUbrpD3owRGmZ/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/1aBVwSX__ExyQTBojM_Gdd1tIdUWIGErY/view?usp=sharing)
+output1 :- https://drive.google.com/file/d/1CfTemTYxAiRkVtfptMttUbrpD3owRGmZ/view?usp=sharing
+output2 :- https://drive.google.com/file/d/1aBVwSX__ExyQTBojM_Gdd1tIdUWIGErY/view?usp=sharing
 
 ## Usage
 
